@@ -583,6 +583,8 @@ export const APP_LANGUAGES: AppLanguageMap = {
 	'io.gitlab.metadatacleaner.metadatacleaner': Lang.Python,
 	'net.ffkkinos.Wildcard': Lang.Rust,
 	'com.jeffser.Nocturne': Lang.Python,
+	'io.github.lluciocc.Vish': Lang.Python,
+	'io.github.Lluciocc.Shapebound': Lang.Python,
 };
 
 // Client-side prepared app type (for reference, but not used in server code)
