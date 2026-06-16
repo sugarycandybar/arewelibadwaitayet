@@ -585,6 +585,7 @@ export const APP_LANGUAGES: AppLanguageMap = {
 	'com.jeffser.Nocturne': Lang.Python,
 	'io.github.lluciocc.Vish': Lang.Python,
 	'io.github.Lluciocc.Shapebound': Lang.Python,
+	'io.github.tanaybhomia.Whisp': Lang.Python,
 };
 
 // Client-side prepared app type (for reference, but not used in server code)
